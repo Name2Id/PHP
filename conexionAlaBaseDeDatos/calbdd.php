@@ -19,7 +19,7 @@
             $this->ndlbdd = $nombreDeLaBaseDeDatos;
         }
 
-        public static function cxn () {
+        public function cxn () {
             $conexion = new mysqli (
                 $this->nds,
                 $this->ndu,
