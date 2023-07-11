@@ -1,4 +1,4 @@
-## Estado actual :
+## Estado actual 7/11/2023 :
 
 se puede agregar horas de entrada y salida
 pero aun no hay formulario para hacerlo de forma automatica y grafica
