@@ -1,5 +1,7 @@
 <?php
 
-    require_once '../iniciarsesion/is.html';
+    require_once '../cambiarPagina/Cp.php';
+
+    Cp::cambia();
 
 ?>
