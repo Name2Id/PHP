@@ -12,7 +12,17 @@ body {
     align-items: center;
     padding: 5px;
 }
-h1 , h2 {
+.form-header {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 1fr;
+    grid-gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0px auto;
+}
+h1 , h2 , h3 {
     width: 100%;
     margin: 0px auto;
 }
@@ -40,7 +50,7 @@ h1 , h2 {
 }
 
 @media screen and (min-width: 500px) {
-    .formulario, h1, h2 {
+    .formulario, h1, h2 , h3 , .form-header {
         width: 50%;
     }
 }
