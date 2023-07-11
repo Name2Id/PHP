@@ -11,7 +11,8 @@
                 "php"
 
             );
-            if ($Calbdd->cxn()->connect_error) {
+            try {
+                $Calbdd->cxn();
 ?>     
 
                 <!DOCTYPE html>
@@ -23,14 +24,14 @@
                 </head>
                 <body>
                     <h1>
-                        Error De Conexion A la 
-                        Base De Datos.
+                        Conexion A la 
+                        Base De Datos Exitosa.
                     </h1>
                 </body>
                 </html>
 
 <?php
-            } else {
+            } catch (Exception $e) {
 ?>
                 <!DOCTYPE html>
                 <html lang="en">
@@ -41,8 +42,8 @@
                 </head>
                 <body>
                     <h1>
-                        Conexion A la 
-                        Base De Datos Exitosa.
+                        Error De Conexion A la 
+                        Base De Datos.
                     </h1>
                 </body>
                 </html>
