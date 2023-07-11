@@ -14,3 +14,7 @@ utilizando la variable super global $_GET
 
 tambien respecto a los calculos de las horas trabajadas
 aun falta ir acumulando el total por dia para obtener un total del periodo
+
+sera necesario implementar las sessiones para poder proteger el contenido
+y de esta manera sea inaccesible para usuarios que aun no esten
+registrados en el sistema de inicio de sesion.
