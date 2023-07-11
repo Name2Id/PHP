@@ -16,22 +16,27 @@
             <h3><a href="../iniciarsesion/is.html?is=inse">Ya tienes cuenta ?</a></h3>
         </div>
     </div>
-    <form action="" method="" class="formulario">
+    <form action="../validarRegistro/vr.php" method="POST" class="formulario">
         <div>
             <label for="name" class="lbl">
                 tu nombre : <input type="text"
                 placeholder = "ejemplo : Ramiro" 
-                id="name" class="txtinputs" required/>
+                id="name" class="txtinputs" name="nombre" required/>
             </label>
-            <label for="pass" class="lbl">
-                tu contrase&ntilde;a : <input type="password"
-                placeholder = "ejemplo : dfsdf-098Rdfd" 
-                id="pass" class="txtinputs" required/>
+            <label for="email" class="lbl">
+                email : <input type="email"
+                placeholder = "ejemplo : ramigglez@gmail.com" 
+                id="email" class="txtinputs" name="correo" required/>
             </label>
             <label for="url" class="lbl">
                 github Link : <input type="text"
                 placeholder = "ejemplo : https://github.com/Name2Id/PHP" 
-                id="url" class="txtinputs" required/>
+                id="url" class="txtinputs" name="enlace" required/>
+            </label>
+            <label for="pass" class="lbl">
+                tu contrase&ntilde;a : <input type="password"
+                placeholder = "ejemplo : dfsdf-098Rdfd" 
+                id="pass" class="txtinputs" name="secreto" required/>
             </label>
         </div>
         <input type="submit" value="guardar/registrar usuario."/>
