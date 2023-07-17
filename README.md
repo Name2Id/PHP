@@ -136,3 +136,6 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
         </ul>
     </li>
 </ol>
+
+## Como Obtener informacion de un usuario nuevo ,
+## dentro de php.test ?
