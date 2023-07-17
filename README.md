@@ -23,9 +23,16 @@ tambien falta implementar las pantallas o paginas de consultas o views
 en las cuales visualizaremos los registros almacenados en la base de datos.
 
 
-## 07/17/2023 9:15 AM
+## 07/17/2023 9:15 AM lastest update 
 
-Lista de carpetas que componen la esturctura de archivos y carperas del programa
+<p>
+    La actualizacion puede ser a nivel readme "mas comun mente en el dia a dia"<br>
+    a nivel estructura de carpetas y archivos "muy frecuente ala par con las tareas diarias"<br>
+    a nivel de clases , metodos y funciones extremadamente frrecuente en conjunto con las otras dos
+    modificaciones diarias.
+</p>
+
+## Lista de carpetas que componen la esturctura de archivos y carperas del programa
 
 <ol>
     <li>
