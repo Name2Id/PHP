@@ -23,7 +23,7 @@ tambien falta implementar las pantallas o paginas de consultas o views
 en las cuales visualizaremos los registros almacenados en la base de datos.
 
 
-## 07/17/2023 9:15 AM lastest update 
+## 07/17/2023 9:15 AM Ultima actualizacion
 
 <p>
     La actualizacion puede ser a nivel readme "mas comun mente en el dia a dia"<br>
