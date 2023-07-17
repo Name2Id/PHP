@@ -154,12 +154,12 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 <p>
     Una vez dentro del dominio local php.test
     <div>
-        ![Alt text](./mediosDeComunicacion/imagenes/screen1.png "localhost")
+        <img title="localhost" src="./mediosDeComunicacion/imagenes/screen1.png ">
     </div>
     <br> dirigete ala carpeta entrada , da click <br>
     en ella y despues da click en el enlace que dice <br>
     registrar un nuevo usuario.
     <div>
-        ![Alt text](./mediosDeComunicacion/imagenes/screen2.png "localhost")
+        <img title="localhost" src="./mediosDeComunicacion/imagenes/screen2.png ">
     </div>
 </p>
