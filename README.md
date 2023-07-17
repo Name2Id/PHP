@@ -25,4 +25,23 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 
 Lista de carpetas que componen la esturctura de archivos y carperas del programa
 
-*404
+<ol>
+    <li>
+        404
+        <br>
+        <ul>
+            <li>404.html</li>
+        </ul>
+    </li>
+    <li>agregarUnNuevoUsuario</li>
+    <li>calcularSalarioDiario</li>
+    <li>cambiarPagina</li>
+    <li>conexionAlaBaseDeDatos</li>
+    <li>entrada</li>
+    <li>iniciarsesion</li>
+    <li>mediosDeComunicacion</li>
+    <li>obtenerLaConexionAlaBaseDeDatos</li>
+    <li>probarConexionAlaBaseDeDatos</li>
+    <li>validacionDeCampos</li>
+    <li>validarRegistro</li>
+</ol>
