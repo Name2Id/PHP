@@ -23,6 +23,8 @@ tambien falta implementar las pantallas o paginas de consultas o views
 en las cuales visualizaremos los registros almacenados en la base de datos.
 
 
+## 07/17/2023 9:15 AM
+
 Lista de carpetas que componen la esturctura de archivos y carperas del programa
 
 <ol>
@@ -68,12 +70,22 @@ Lista de carpetas que componen la esturctura de archivos y carperas del programa
     </li>
     <li>
         cambiarPagina
+        <ul>
+            <li>Cp.php</li>
+        </ul>
     </li>
     <li>
         conexionAlaBaseDeDatos
+        <ul>
+            <li>Calbdd.php</li>
+        </ul>
     </li>
     <li>
         entrada
+        <ul>
+            <li>.htaccess</li>
+            <li>index.php</li>
+        </ul>
     </li>
     <li>
         iniciarsesion
