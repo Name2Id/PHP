@@ -185,3 +185,6 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 <p>
     En el segundo le agregamos una ip para que la url funcione en el servidor web
 </p>
+
+<h6>Utiliza google para informarte mas sobre los archivos anteriormente mencionados <br>
+y para obtener el conocimiento necesario sobre la implementacion de dominios virtuales.</6>
