@@ -163,3 +163,5 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
         <img title="localhost" src="./mediosDeComunicacion/imagenes/screen2.png ">
     </div>
 </p>
+
+## Como crear el dominio local php.test ?
