@@ -21,3 +21,8 @@ registrados en el sistema de inicio de sesion.
 
 tambien falta implementar las pantallas o paginas de consultas o views
 en las cuales visualizaremos los registros almacenados en la base de datos.
+
+
+Lista de carpetas que componen la esturctura de archivos y carperas del programa
+
+*404
