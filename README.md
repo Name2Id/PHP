@@ -96,20 +96,43 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
     </li>
     <li>
         iniciarsesion
+        <ul>
+            <li>is.html</li>
+        </ul>
     </li>
     <li>
         mediosDeComunicacion
+        <ol>
+            <li>
+                imagenes
+                <ul>
+                    <li>conexionExitosa.png</li>
+                </ul>
+            </li>
+        </ol>
     </li>
     <li>
         obtenerLaConexionAlaBaseDeDatos
+        <ul>
+            <li>olcalbdd.php</li>
+        </ul>
     </li>
     <li>
         probarConexionAlaBaseDeDatos
+        <ul>
+            <li>Pcalbdd.php</li>
+        </ul>
     </li>
     <li>
         validacionDeCampos
+        <ul>
+            <li>Vdc.php</li>
+        </ul>
     </li>
     <li>
         validarRegistro
+        <ul>
+            <li>vr.php</li>
+        </ul>
     </li>
 </ol>
