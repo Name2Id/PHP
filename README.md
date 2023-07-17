@@ -33,15 +33,64 @@ Lista de carpetas que componen la esturctura de archivos y carperas del programa
             <li>404.html</li>
         </ul>
     </li>
-    <li>agregarUnNuevoUsuario</li>
-    <li>calcularSalarioDiario</li>
-    <li>cambiarPagina</li>
-    <li>conexionAlaBaseDeDatos</li>
-    <li>entrada</li>
-    <li>iniciarsesion</li>
-    <li>mediosDeComunicacion</li>
-    <li>obtenerLaConexionAlaBaseDeDatos</li>
-    <li>probarConexionAlaBaseDeDatos</li>
-    <li>validacionDeCampos</li>
-    <li>validarRegistro</li>
+    <li>
+        agregarUnNuevoUsuario
+        <br>
+        <ol>
+            <li>
+                estiloDelFormulario
+                <ul>
+                    <li>edf.css</li>
+                </ul>
+            </li>
+            <li>aunu.html</li>
+        </ol>
+    </li>
+    <li>
+        calcularSalarioDiario
+        <br>
+        <ul>
+            <li>Csd.php</li>
+            <li>
+                <p>
+                    Cuando vemos que <br>
+                    un nombre de archivo <br>
+                    lleva como letra inicial<br>
+                    una mayuscula.<br>
+                    <br>
+                    <br>
+                    esto significa que el<br> 
+                    archivo contiene el codigo<br> 
+                    correspondiente a una clase.
+                </p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        cambiarPagina
+    </li>
+    <li>
+        conexionAlaBaseDeDatos
+    </li>
+    <li>
+        entrada
+    </li>
+    <li>
+        iniciarsesion
+    </li>
+    <li>
+        mediosDeComunicacion
+    </li>
+    <li>
+        obtenerLaConexionAlaBaseDeDatos
+    </li>
+    <li>
+        probarConexionAlaBaseDeDatos
+    </li>
+    <li>
+        validacionDeCampos
+    </li>
+    <li>
+        validarRegistro
+    </li>
 </ol>
