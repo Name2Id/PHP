@@ -139,3 +139,12 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 
 ## Como Obtener informacion de un usuario nuevo ,
 ## dentro de php.test ?
+
+<p>
+    Para recopilar los datos de un usuario nuevo es tan sencillo como 
+    <br> llevar al usuario al formulario de registro ubicado <br>
+    en el archivo de registro "aunu.html"<br>
+    El cual una vez rellenado correctamente te redirigira al archivo<br>
+    "vr.php" el cual utilizando la variable super global $_POST<br>
+    validara y almacenara la informacion recopilada desde el formulario de registro.
+</p>
