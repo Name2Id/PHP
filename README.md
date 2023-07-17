@@ -165,3 +165,23 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 </p>
 
 ## Como crear el dominio local php.test ?
+
+<p>
+    Para crear un dominio local tendremos que modificar dos<br>
+    archivos :<br>
+    <ul>
+        <li>httpd-vhosts</li>
+        <li>Y</li>
+        <li>hosts</li>
+    </ul>
+</p>
+
+<p>
+    Sin entrar en muchos detalles por que ese no es el <br>
+    objetivo de este readme, el primer archivo de la lista<br>
+    es en el cual tu indicaras la ubicacion y nombre de dominio de tu proyecto.
+</p>
+
+<p>
+    En el segundo le agregamos una ip para que la url funcione en el servidor web
+</p>
