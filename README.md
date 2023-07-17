@@ -148,3 +148,18 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
     "vr.php" el cual utilizando la variable super global $_POST<br>
     validara y almacenara la informacion recopilada desde el formulario de registro.
 </p>
+
+## Como llevo un usuario al formulario de registro ?
+
+<p>
+    Una vez dentro del dominio local php.test
+    <div>
+        ![Alt text](./mediosDeComunicacion/imagenes/screen1.png "localhost")
+    </div>
+    <br> dirigete ala carpeta entrada , da click <br>
+    en ella y despues da click en el enlace que dice <br>
+    registrar un nuevo usuario.
+    <div>
+        ![Alt text](./mediosDeComunicacion/imagenes/screen2.png "localhost")
+    </div>
+</p>
