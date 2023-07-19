@@ -28,7 +28,7 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 <p>
     La actualizacion puede ser a nivel readme "mas comun mente en el dia a dia"<br>
     a nivel estructura de carpetas y archivos "muy frecuente ala par con las tareas diarias"<br>
-    a nivel de clases , metodos y funciones extremadamente frrecuente en conjunto con las otras dos
+    a nivel de clases , metodos y funciones extremadamente frecuente en conjunto con las otras dos
     modificaciones diarias.
 </p>
 
@@ -188,3 +188,7 @@ en las cuales visualizaremos los registros almacenados en la base de datos.
 
 <h6>Utiliza google para informarte mas sobre los archivos anteriormente mencionados <br>
 y para obtener el conocimiento necesario sobre la implementacion de dominios virtuales.</6>
+
+## 07/19/2023 9:34 AM Ultima actualizacion
+
+<h2>Modulo para el almacenamiento de registro de usuarios</h2>
