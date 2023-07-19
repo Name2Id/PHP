@@ -192,3 +192,5 @@ y para obtener el conocimiento necesario sobre la implementacion de dominios vir
 ## 07/19/2023 9:34 AM Ultima actualizacion
 
 <h2>Modulo para el almacenamiento de registro de usuarios</h2>
+
+<p>En Construccion ...</p>
