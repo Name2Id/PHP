@@ -29,4 +29,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     #echo $n.' - '.$c.' - '.$e.' - '.$secreto;
 
+    require_once '../insertarDatos/Id.php';
+
+    $ID = new Id ([
+        'campos' => [
+            "nombre",
+            "password",
+            "githublink",
+            "correo"
+        ],
+        'valores' => [
+            $n,
+            $secreto,
+            $e,
+            $c
+        ],
+        'tabla' => "devs"
+    ]);
+
+
+
 }

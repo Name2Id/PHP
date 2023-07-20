@@ -194,3 +194,22 @@ y para obtener el conocimiento necesario sobre la implementacion de dominios vir
 <h2>Modulo para el almacenamiento de registro de usuarios</h2>
 
 <p>En Construccion ...</p>
+
+<div style="border:1px solid pink;padding:20px;margin:auto;">
+    <h2>Lista de Tareas</h2>
+    <ul>
+     <li><h3><em>Validacion para evitar registros duplicados en la base de datos</em></h3></li>
+     <li><h3><em>
+     Crear la vista del formulario para ingresar entrada y salida de la jornada laboral</em></h3>
+     </li>
+     <li><h3><em>Crear la recopilacion de datos de la jornada laboral File.php</em></h3></li>
+     <li><h3><em>Crear proceso para almacenar un nuevo registro de la jornada
+     laboral en la base de datos</em></h3></li>
+     <li><h3><em>
+     crear las sesiones y procesos para poder iniciar sesion</em></h3></li>
+     <li><h3><em>
+     agregar el codigo necesario para proteger el contenido de usuarios
+     que no hayan iniciado sesion</em></h3></li>
+     <li><h3><em>etc....</em></h3></li>
+    <ul>
+</div>
