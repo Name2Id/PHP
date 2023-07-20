@@ -9,7 +9,8 @@
                 require_once '../agregarUnNuevoUsuario/aunu.html';
             } elseif (isset($_GET['time']) && $_GET['time'] === 'show') {
                 require_once '../calcularSalarioDiario/Csd.php';
-                Csd::calcular();
+                $registro = Csd::calcular();
+                echo "llamada ala funcion # ".$registro;
             } else {
                 require_once '../404/404.html';
             }

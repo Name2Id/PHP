@@ -3,7 +3,18 @@
     class Csd {
 
         public static function calcular ($entrada="11:00am May 18 2023",$salida="4:48pm May 18 2023") {
-
+            $registroNumero = 1;
+            static $x = null;
+            echo '
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title></title>
+            </head>
+            <body>
+            ';
             $precio = 12;
             $disminuir = 30;
 
@@ -48,6 +59,12 @@
 
             echo '<hr>';
 
+            echo "
+            </body>
+            </html>
+            ";
+            $x += $registroNumero;
+            return $x;
         }
 
     }
